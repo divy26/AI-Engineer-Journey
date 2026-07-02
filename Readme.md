@@ -28,3 +28,6 @@ This repository documents my transition from Retail/Data Analytics to AI Enginee
 ---
 
 > Every expert was once a beginner.
+## Day 1
+
+Today I created my first Git repository and pushed my first commit to GitHub.
