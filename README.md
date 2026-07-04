@@ -31,3 +31,18 @@ This repository documents my transition from Retail/Data Analytics to AI Enginee
 ## Day 1
 
 Today I created my first Git repository and pushed my first commit to GitHub.
+## Day 2
+
+### Topics Covered
+- Exception Handling
+- NumPy Arrays
+- Pandas Introduction
+- Missing Values (NaN)
+
+### Key Learning
+Exception handling makes applications robust by preventing crashes from unexpected runtime errors.
+
+### Next Goal
+- Complete Data Visualization
+- Revise OOP
+- Practice Functions
